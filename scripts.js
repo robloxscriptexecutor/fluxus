@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Get all anchor links from the table of contents
     const tocLinks = document.querySelectorAll('.toc-section ul li a');
 
+    
     // Add smooth scroll effect
     tocLinks.forEach(link => {
         link.addEventListener('click', function (event) {
