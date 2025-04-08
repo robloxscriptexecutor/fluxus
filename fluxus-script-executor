@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta Tags for SEO -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Fluxus Executor is a powerful Roblox exploit tool for executing Lua scripts. Download the latest version to enhance your gaming experience.">
+    <meta name="keywords" content="Fluxus Executor, Roblox exploit, Lua scripting, Roblox hacks, gaming tool, Roblox script executor, Fluxus download">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph Meta Tags for Social Media -->
+    <meta property="og:title" content="Fluxus Executor - The Ultimate Roblox Exploit Tool">
+    <meta property="og:description" content="Unlock the full potential of Roblox with Fluxus Executor. Execute Lua scripts and mods to enhance your gaming experience.">
+    <meta property="og:image" content="https://example.com/fluxus-thumbnail.jpg"> <!-- Replace with actual image URL -->
+    <meta property="og:url" content="https://yourusername.github.io/fluxus-executor-website/">
+    <meta property="og:type" content="website">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Fluxus Executor - The Ultimate Roblox Exploit Tool">
+    <meta name="twitter:description" content="Unlock the full potential of Roblox with Fluxus Executor. Execute Lua scripts and mods to enhance your gaming experience.">
+    <meta name="twitter:image" content="https://example.com/fluxus-thumbnail.jpg"> <!-- Replace with actual image URL -->
+    
+    <!-- Schema.org Markup for Google -->
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "SoftwareApplication",
+            "name": "Fluxus Executor",
+            "url": "https://yourusername.github.io/fluxus-executor-website/",
+            "description": "Fluxus Executor is a powerful Roblox exploit tool for executing Lua scripts. Download the latest version to enhance your gaming experience.",
+            "operatingSystem": "Windows",
+            "applicationCategory": "GameApplication",
+            "downloadUrl": "https://fluxus-team.com",
+            "logo": "https://example.com/fluxus-logo.png",  <!-- Replace with actual image URL -->
+            "author": {
+                "@type": "Organization",
+                "name": "Fluxus Team"
+            },
+            "publisher": {
+                "@type": "Organization",
+                "name": "Fluxus Team",
+                "logo": "https://example.com/fluxus-logo.png"  <!-- Replace with actual image URL -->
+            },
+            "keywords": "Fluxus Executor, Roblox exploit, Lua scripting, Roblox hacks, gaming tool, Roblox script executor"
+        }
+    </script>
+
+    <title>Fluxus Executor - The Ultimate Roblox Exploit Tool</title>
+    <link rel="stylesheet" href="styles.css">
+
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Fluxus Executor</h1>
+        <nav>
+            <ul>
+                <li><a href="#toc">Table of Contents</a></li>
+                <li><a href="#about">About Fluxus</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#download">Download</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Table of Contents -->
+    <section id="toc" class="toc-section">
+        <h2>Table of Contents</h2>
+        <ul>
+            <li><a href="#about">About Fluxus</a></li>
+            <li><a href="#features">Features of Fluxus Executor</a></li>
+            <li><a href="#download">Download Fluxus Executor</a></li>
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>About Fluxus Executor</h2>
+        <p>Fluxus Executor is a popular and advanced tool for Roblox scripting and exploits. With Fluxus, users can execute Lua scripts and unlock hidden features, giving them greater control over their Roblox gaming experience.</p>
+    </section>
+
+    <section id="features">
+        <h2>Features of Fluxus Executor</h2>
+        <ul>
+            <li>High script execution speed for smooth performance</li>
+            <li>Free to use with no hidden charges</li>
+            <li>Customizable interface for easy script execution</li>
+            <li>Frequent updates to keep the tool working with the latest Roblox versions</li>
+            <li>Supports a variety of scripts, from simple hacks to complex mods</li>
+        </ul>
+    </section>
+
+    <section id="download">
+        <h2>Download Fluxus Executor</h2>
+        <p>If you're ready to unlock the full potential of Roblox, visit the official website to download Fluxus Executor. Click the link below to get started:</p>
+        <p><a href="http://fluxus-team.com" target="_blank">Download Fluxus Executor here!</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Fluxus Team. All rights reserved.</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
